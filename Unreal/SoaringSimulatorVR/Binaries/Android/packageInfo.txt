@@ -1,0 +1,4 @@
+one.fayaz.soaring
+2
+alpha-0.1
+name='com.epicgames.unreal.GameActivity.AppType' value=''
